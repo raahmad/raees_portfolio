@@ -1,0 +1,6 @@
+body{background-color: cyan;}
+h1{color: darkblue; font-style: italic; font-size: 50px; font-weight:bold; font-family: Georgia, 'Times New Roman', Times, serif;}
+table{border: 10px darkblue solid; margin: 20px; padding: 25px;}
+p{color: darkgoldenrod; font-size: 25px;}
+html{margin: 0; padding: 0; font-size: 100%; line-height: 1;}
+a:link{color: chartreuse; text-decoration: underline;}
