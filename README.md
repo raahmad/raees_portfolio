@@ -4,6 +4,12 @@
 ### Intro
 Personal static website about myself (My name is Raees Ahmad).
 
+### Prerequisites
+1. Need to purchase a domain name in Namecheap
+2. Need GitHub Desktop
+3. Need a Microsoft Azure account
+4. Need Visual Studio Code
+
 ### Information on Website
 1. Where I go to school
 2. Where my school is
