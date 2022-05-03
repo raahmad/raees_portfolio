@@ -11,8 +11,9 @@ Personal static website about myself (My name is Raees Ahmad).
 4. What my major is
 5. The name of my department
 6. What graduating class I am in
-7. Link to my GitHub
-8. Link to my LinkedIn
+7. Image of myself
+8. Link to my GitHub
+9. Link to my LinkedIn
 
 ### Steps to Making Site
 1. Created a repository called raees_portfolio
@@ -36,28 +37,31 @@ Personal static website about myself (My name is Raees Ahmad).
 https://delightful-beach-0b3f51110.1.azurestaticapps.net/
 
 ### Steps to Changing Domain Name
-1. Manage domain purchased in Namecheap
-2. Click Advanced DNS
-3. Delete all the records originally in there and add a new TXT record
-4. Enter and Validate domain purchased from Namecheap using TXT type
-5. Enter the correct Type, Host, and Value received from Microsoft Azure into the new record in Namecheap
-6. Make sure everything validates in Microsoft Azure (may take 10-15 minutes)
-7. Add an ALIAS record in Namecheap
-8. Add the correct Host and Value to the Alias record
+1. Managed domain purchased in Namecheap
+2. Clicked Advanced DNS
+3. Deleted all the records originally in there and add a new TXT record
+4. Entered and Validated domain purchased from Namecheap using TXT type
+5. Entered the correct Type, Host, and Value received from Microsoft Azure into the new record in Namecheap
+6. Made sure everything validates in Microsoft Azure (took 10-15 minutes)
+7. Added an ALIAS record in Namecheap
+8. Added the correct Host and Value to the Alias record
 9. Host should be @ and Value should be the link to the original website
-10. Wait for it to validate with Microsoft Azure (may take 1-2 hours)
-11. You will now have your website with the domain you purchased
+10. Waited for it to validate with Microsoft Azure (took 1-2 hours)
+11. Site is fully created with the domain name I purchased
+
+https://raeesahmad.com/
 
 ### Steps to Adding Google Analytics
-1. Go to analytics.google.com
-2. Create an account
-3. Hint: Try having the account name similar to your domain name so that it is easy to remember
-4. Fill out the appropriate information in the rest of the sheet and click create
-5. Accept service agreement
-6. Go to Data Stream and enter your domain name and account name into the website url and stream name
-7. Create stream
-8. Go to global site tag
-9. Copy and paste the code into all the html pages used for the static website
-10. The code should be before the body and html line of code
-11. Save it and commit to main in GitHub desktop
-12. Click on your account name in analytics.google.com and you can now track the type of people on your site
+1. Went to analytics.google.com
+2. Created an account
+3. Hint: Tried having the account name similar to my domain name so that it is easy to remember
+4. Filled out the appropriate information in the rest of the sheet and clicked create
+5. Accepted service agreement
+6. Went to Data Stream and entered my domain name and account name into the website url and stream name
+7. Created stream
+8. Then went to global site tag
+9. Copied and pasted the code into index.html page used for the static website
+10. Hint: should add this code to every html page used for the static website
+11. The code should be before the body and html line of code
+12. Saved it and commited to main in GitHub desktop
+13. Clicked on my account name in analytics.google.com and can now track the type of people on the site
