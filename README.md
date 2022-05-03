@@ -76,4 +76,4 @@ https://raeesahmad.com/
 Raees Ahmad
 
 ### Acknowledgements
-Acknowledgements to Professor Michael Colbert within the University of Iowa for assistance in the completion of this analysis.
+Acknowledgements to Professor Michael Colbert within the University of Iowa for assistance in the completion of this project.
