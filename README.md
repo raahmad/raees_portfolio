@@ -45,7 +45,7 @@ https://delightful-beach-0b3f51110.1.azurestaticapps.net/
 ### Steps to Changing Domain Name
 1. Managed domain purchased in Namecheap
 2. Clicked Advanced DNS
-3. Deleted all the records originally in there and add a new TXT record
+3. Deleted all the records originally in there and added a new TXT record
 4. Entered and Validated domain purchased from Namecheap using TXT type
 5. Entered the correct Type, Host, and Value received from Microsoft Azure into the new record in Namecheap
 6. Made sure everything validates in Microsoft Azure (took 10-15 minutes)
@@ -71,3 +71,9 @@ https://raeesahmad.com/
 11. The code should be before the body and html line of code
 12. Saved it and commited to main in GitHub desktop
 13. Clicked on my account name in analytics.google.com and can now track the type of people on the site
+
+### Author
+Raees Ahmad
+
+### Acknowledgements
+Acknowledgements to Professor Michael Colbert within the University of Iowa for assistance in the completion of this analysis.
